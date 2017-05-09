@@ -3,7 +3,7 @@
 <Link>http://dl.my-film.in/serial/Arrow/Season%201%20-%20720p%20web-dl/Arrow.S01E01.720p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg<fanart>
-<info></info>
+<info>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/arrow%20s1e1%20info.txt</info>
 <item>
 
 

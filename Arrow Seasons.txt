@@ -2,11 +2,11 @@
 <channels>
 
 <channel>
-<name>Season 1 - 720p web-dl</name>
+<name>Season 1</name>
 <thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Season%201.txt</externallink>
 <fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
-<info>Season 1 - 720p web-dl</info>
+<info>Season 1</info>
 </channel>
 
 <channel>

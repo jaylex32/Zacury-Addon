@@ -1,7 +1,7 @@
 <item>
 <title>Tape 1, Side A<title>
 <Link>http://dl.melimedia.net/mersad/serial/13Reasons%20Why/s01/13ReasonsWhy.S01E01.720p.x265.WEBrip_MeliMedia.INFO.mkv<link>
-<thumbnail> <thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/323168-4.jpg<thumbnail>
 <fanart> <fanart>
 <item>
 
@@ -9,7 +9,7 @@
 <item>
 <title>Tape 1, Side B<title>
 <Link>http://dl.melimedia.net/mersad/serial/13Reasons%20Why/s01/13ReasonsWhy-S01E02-720p-x265_MeliMedia.INFO.mkv<link>
-<thumbnail> <thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/323168-4.jpg<thumbnail>
 <fanart> <fanart>
 <item>
 
@@ -17,7 +17,7 @@
 <item>
 <title>Tape 2, Side A<title>
 <Link>http://dl.melimedia.net/mersad/serial/13Reasons%20Why/s01/13ReasonsWhy-S01E03-720p-x265_MeliMedia.INFO.mkv<link>
-<thumbnail> <thumbnail>
+<thumbnail>http://thetvdb.com/banners/posters/323168-4.jpg<thumbnail>
 <fanart> <fanart>
 <item>
 

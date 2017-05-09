@@ -10,7 +10,7 @@
 </channel>
 
 <channel>
-<name>Season 2 - 720p HDTV</name>
+<name>Season 2</name>
 <thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Season%202.txt</externallink>
 <fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
@@ -18,7 +18,7 @@
 </channel>
 
 <channel>
-<name>Season 3 - 720p HDTV</name>
+<name>Season 3</name>
 <thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
 <fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>

@@ -13,7 +13,7 @@
 <channel>
 <name>Tv Shows</name>
 <thumbnail></thumbnail>
-<externallink>https://gist.githubusercontent.com/jaylex32/186b5fb9e970d200dd561946d1a829b7/raw/0f945bb2fe8ef5751b72ddcfab18b2ec646f2600/Tv%2520Shows.txt</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/TvShows.txt</externallink>
 <fanart></fanart>
 <info>movieplanetbuild.com</info>
 </channel>

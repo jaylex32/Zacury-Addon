@@ -12,9 +12,9 @@
 
 <channel>
 <name>Arrow</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/13%20Reasons%20Why%20Seasons.txt</externallink>
-<fanart></fanart>
+<thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
 <info></info>
 </channel>
 

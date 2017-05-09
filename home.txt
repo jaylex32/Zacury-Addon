@@ -5,7 +5,7 @@
 <channel>
 <name>Movies</name>
 <thumbnail>http://4.bp.blogspot.com/-9szhqTrgQm4/TkTdBa0FoxI/AAAAAAAADgk/E4BfMO_9S3o/s320/movies-icon.jpg</thumbnail>
-<externallink>https://gist.githubusercontent.com/jaylex32/4a209443269a75953a7d17968fa01c39/raw/4981b6250308cd7dc4a0bfe2b470f4aa8dbbba7b/Movies.txt</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movies.txt</externallink>
 <fanart></fanart>
 <info>movieplanetbuild.com</info>
 </channel>

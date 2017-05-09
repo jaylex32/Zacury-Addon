@@ -1,0 +1,686 @@
+<item>
+<title>A Dog's Purpose<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/A.Dog%27s.Purpose.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>A Monster Calls<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/A.Monster.Calls.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg1OTA5OTkyNV5BMl5BanBnXkFtZTgwODMwNDU5OTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>A Street Cat Named Bob<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/A.Street.Cat.Named.Bob.2016.720p.Bluray.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MTI1MzE5Nl5BMl5BanBnXkFtZTgwMjQzNjEzOTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>A Walk in the Woods<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/A.Walk.in.the.Woods.2015.720p.2CH.x265.HEVC.-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MTkwMzM0NF5BMl5BanBnXkFtZTgwMjA0NDA4NTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Anne of Green Gables<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Anne.of.Green.Gables.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzIyOTI5MjMxMl5BMl5BanBnXkFtZTgwODE4NDY3NzE@._V1_UY268_CR3,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Assassins Creed<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Assassins.Creed.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzE1OTczNTc1OF5BMl5BanBnXkFtZTgwMzgyMDI3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Ballerina<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Ballerina.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZjEzMmFlNWUtYTFhOC00ZDMxLTllZmItZjc3ODMwNTk2ZmNlXkEyXkFqcGdeQXVyNTY2ODgzODg@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Batman Return of the Caped Crusaders<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Batman.Return.of.the.Caped.Crusaders.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYzg0MmNlOTMtNTY3Yi00NmJhLWFjMWUtNzkzNzJjMDk2ZmJlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY268_CR14,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Becoming Zlatan<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Becoming.Zlatan.2015.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNmEyZTQwZDUtZTZlNy00OGZmLThiOTAtMTAwZjUzNWVlOGU5XkEyXkFqcGdeQXVyMzY0MDc2MQ@@._V1_UY268_CR3,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Brimstone<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Brimstone.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYjA3ODUwNjMtOGY0MC00NmFkLTlhNjEtOGI1YzVjY2IxZTU0L2ltYWdlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY268_CR4,0,182,268_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjIyNzMxMDktODRhNy00Y2ZhLTgzNTgtMjI1ZWJmNzhmNmQwL2ltYWdlXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_SX1500_AL_.jpg<fanart>
+<item>
+
+
+<item>
+<title>Call of Heroes<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Call.of.Heroes.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDNkMjg2MDgtMmJiZC00ZmRhLWEyMWUtOTBmMDUzZTNlMTAzXkEyXkFqcGdeQXVyNjc4MjAzNTE@._V1_UY268_CR4,0,182,268_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwMTc4NDU3OV5BMl5BanBnXkFtZTgwMzczOTczOTE@._V1_SY1000_CR0,0,1412,1000_AL_.jpg<fanart>
+<item>
+
+
+<item>
+<title>Drishyam<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Drishyam.2015.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Fantastic Beasts and Where to Find Them<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Fantastic.Beasts.and.Where.to.Find.Them.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxOTM1OTI4MV5BMl5BanBnXkFtZTgwODE5OTYxMDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1MTI0NTIzOF5BMl5BanBnXkFtZTgwNjUyMDEwMDI@._V1_.jpg<fanart>
+<item>
+
+
+<item>
+<title>Fast and Furious 6<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Fast.and.Furious.6.2013.Extended.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Fences<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Fences.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnailhttps://images-na.ssl-images-amazon.com/images/M/MV5BOTg0Nzc1NjA0MV5BMl5BanBnXkFtZTgwNTcyNDQ0MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Fifty Shades Darker<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Fifty.Shades.Darker.2017.UNRATED.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5NTk0Njg2N15BMl5BanBnXkFtZTgwNzk5Nzk3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Frontera<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Frontera.2014.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwOTA2NTM3OV5BMl5BanBnXkFtZTgwMDY1OTU5MTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Gold<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Gold.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjEwNzMzMDI4Nl5BMl5BanBnXkFtZTgwMTM2ODkwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Haider<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Haider.2014.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1NTEwMDMxMF5BMl5BanBnXkFtZTgwODkzMzI0MjE@._V1_UY268_CR1,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Hell or High Water<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Hell.or.High.Water.2016.720p.BluRay.2CH.x265.HEVC.NightMovie.mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4NDA1OTA5NF5BMl5BanBnXkFtZTgwMDQ2MDM5ODE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Hidden Figures<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Hidden.Figures.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Housefull 3<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Housefull.3.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BZDQ5Zjg2ZDktYWIyZi00MTE4LWJiZTQtNzcwMzg3YjAzNGNhXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR2,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>I Am Bolt<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/I.Am.Bolt.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDhiNDEwYTQtNzY5MC00YWIwLWI5YjgtYzUxYTViMTFlNjdhXkEyXkFqcGdeQXVyMTE2ODA5Nzk@._V1_UY268_CR9,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>I Am Not Your Negro<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/I.Am.Not.Your.Negro.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzIzMTk3Ml5BMl5BanBnXkFtZTgwNDE1Nzc1MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>I Daniel Blake<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/I.Daniel.Blake.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4NTMzMTk4NV5BMl5BanBnXkFtZTgwNTU5MjE4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Irreplaceable<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Irreplaceable.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BN2Y0MzM0ODgtMzY0Mi00ZTBjLThhYjItYzU4ODI3NDg1NzdlXkEyXkFqcGdeQXVyNjU3MDQ1Njg@._V1_UY268_CR7,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Jack Reacher<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Jack.Reacher.2012.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_UY268_CR2,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Jolly LLB 2<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Jolly.LLB.2.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMDY5MzFlYzEtNTg0YS00OGM5LWI1ZDMtZDkxN2Y2OTI1NGUxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjM1NjkwMDI@._V1_UY268_CR9,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Kahaani 2012<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Kahaani.2012.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Kill Command<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Kill.Command.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzgxMDc1NzczMl5BMl5BanBnXkFtZTgwNzMwNTQxODE@._V1_UY268_CR98,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Kung Fu Yoga<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Kung.Fu.Yoga.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>LEGO DC Super Heroes Justice League Gotham City<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/LEGO.DC.Super.Heroes.Justice.League.Gotham.City.Breakout.2016.1080p.5.1CH.Ganool-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMmE2ODEwMTctMjU2YS00Nzg5LWI3ZjgtYWVkYzE4NTFmMmUxXkEyXkFqcGdeQXVyMzk2NTI1Nzk@._V1_UY268_CR14,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>La La Land<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/La.La.Land.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Lion<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Lion.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_UY268_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Live by Night<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Live.by.Night.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjc3MDIyMjgzNl5BMl5BanBnXkFtZTgwMzUxOTg3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart><fanart>
+<item>
+
+
+<item>
+<title>Lo and Behold Reveries of the Connected World<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Lo.and.Behold.Reveries.of.the.Connected.World.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzg1NTQ0MjYwNl5BMl5BanBnXkFtZTgwMjk1NjYwOTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>M S Dhoni The Untold Story<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/M.S.Dhoni.The.Untold.Story.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Memories of Murder<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Memories.of.Murder.2003.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Miss Potter 2006<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Miss.Potter.2006.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Mona Lisa Smile<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Mona.Lisa.Smile.2003.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Money Monster<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Money.Monster.2016.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgzMjU1NDUwMl5BMl5BanBnXkFtZTgwODg1NjY0ODE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Passengers<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Passengers.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTk4MjU3MDIzOF5BMl5BanBnXkFtZTgwMjM2MzY2MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Railroad Tigers<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Railroad.Tigers.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Resident Evil The Final Chapter<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Resident.Evil.The.Final.Chapter.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0Mzc2OTQ0Ml5BMl5BanBnXkFtZTgwOTQ5MjE4MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Rings<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Rings.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjU1NDAxNTg0MF5BMl5BanBnXkFtZTgwNzUxMjEwMTI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Rock Dog<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Rock.Dog.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTAwMzM3OF5BMl5BanBnXkFtZTgwNTk4NjYyMTI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Rogue One<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Rogue.One.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Shin Godzilla<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Shin.Godzilla.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODQ4ZmIzNWMtY2NiYi00MmM1LWFjMGQtMDE0Nzc1NzhjNjEyXkEyXkFqcGdeQXVyNDUwNzM4MzQ@._V1_UY268_CR4,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Silence<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Silence.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjY3OTk0NjA2NV5BMl5BanBnXkFtZTgwNTg3Mjc2MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Silver Linings Playbook<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Silver.Linings.Playbook.2012.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTI5NzA3MF5BMl5BanBnXkFtZTcwODExNTc0OA@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Sin City<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Sin.City.2005.Extended.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODZmYjMwNzEtNzVhNC00ZTRmLTk2M2UtNzE1MTQ2ZDAxNjc2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Sin City A Dame to Kill For<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Sin.City.A.Dame.to.Kill.For.2014.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5ODYwNjgxMF5BMl5BanBnXkFtZTgwMTcwNzAyMjE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Sing<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Sing.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Sleepless<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Sleepless.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjEwMDAyOTM4OV5BMl5BanBnXkFtZTgwMzc4MjMyMDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Spare Parts<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Spare.Parts.2015.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NzI4NTIyMF5BMl5BanBnXkFtZTgwMzIzNDMxMzE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>SpiderMan<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Spider-Man.2002.REMASTED.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzk3MTE5MDU5NV5BMl5BanBnXkFtZTYwMjY3NTY3._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Spiderman 2<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Spiderman.2.2004.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY268_CR6,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>SpiderMan 3<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Spider-Man.3.2007.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Sweet Alibis<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Sweet.Alibis.2014.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Taken 3<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Taken.3.2014.EXTENDED.720p.BrRip.2CH.x265-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjM5MDU3NTY0M15BMl5BanBnXkFtZTgwOTk2ODU2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Terra Formars<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Terra.Formars.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Age of Shadows<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Age.of.Shadows.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Amazing SpiderMan<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Amazing.Spider-Man.2012.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Amazing SpiderMan 2<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Amazing.Spider-Man.2.2014.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Hills Have Eyes 2<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Hills.Have.Eyes.2.2007.Unrated.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTczNTA2MzAzMF5BMl5BanBnXkFtZTYwNTkzMzc2._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Hills Have Eyes<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Hills.Have.Eyes.2006.Unrated.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Last King<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Last.King.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0MzE1MjE0M15BMl5BanBnXkFtZTgwMDc3OTYwOTE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Light Between Oceans<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Light.Between.Oceans.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Man Who Knew Infinity<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Man.Who.Knew.Infinity.2015.LIMITED.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3Njg4MDM3OV5BMl5BanBnXkFtZTgwMjE5ODM3ODE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Program<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Program.2015.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDMzMzY3NTIyM15BMl5BanBnXkFtZTgwMjAwNTY1NjE@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Shamers Daughter<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Shamers.Daughter.2015.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Space Between Us<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Space.Between.Us.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNjYzODU1OTkwN15BMl5BanBnXkFtZTgwMDA3MTMwMDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Twilight Saga Breaking Dawn Part 1<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Twilight.Saga.Breaking.Dawn.Part.1.2011.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BODgxNDE0OTAzOF5BMl5BanBnXkFtZTcwNzcwODE2Ng@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Twilight Saga Breaking Dawn Part 2<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Twilight.Saga.Breaking.Dawn.Part.2.2012.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTcyMzUyMzY1OF5BMl5BanBnXkFtZTcwNDQ4ODk1OA@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Twilight Saga Eclipse<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Twilight.Saga.Eclipse.2010.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>The Void<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/The.Void.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>TimeScapes<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/TimeScapes.2012.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NDc4ODE3MF5BMl5BanBnXkFtZTcwOTk3NjU4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Tunnel<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Tunnel.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Underworld Blood Wars<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Underworld.Blood.Wars.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Watchmen<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Watchmen.2009.The.Ultimate.Cut.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NjI2OTYxMF5BMl5BanBnXkFtZTcwMTcxMjkyMg@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>What a Wonderful Family<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/What.a.Wonderful.Family.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>X-Men<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/X.Men.2000.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU4ODZlYTMtZDg4Yi00OGUzLWEzYjUtZjE2ZmM0NTZkYTQ2XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>X-Men The Last Stand<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/X.Men.The.Last.Stand.2006.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1NTg2ODA2Nl5BMl5BanBnXkFtZTcwMDc2MjEzMw@@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>X-Men 2<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/X2.2003.720p.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNDk0NjYxMzIzOF5BMl5BanBnXkFtZTYwMTc1MjU3._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>Yanni Live at El Morro<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Yanni.Live.at.El.Morro.2012.720p.BluRay.6CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail> <thumbnail>
+<fanart> <fanart>
+<item>
+
+
+<item>
+<title>x X x Return of Xander Cage<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/x.X.x.Return.of.Xander.Cage.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_UX182_CR0,0,182,268_AL_.jpg<thumbnail>
+<fanart> <fanart>
+<item>

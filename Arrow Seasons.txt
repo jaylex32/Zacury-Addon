@@ -1,1 +1,46 @@
+<layouttype>thumbnail</layouttype>
+<channels>
 
+<channel>
+<name>Season 1 - 720p web-dl</name>
+<thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
+<info>Season 1 - 720p web-dl</info>
+</channel>
+
+<channel>
+<name>Season 2 - 720p HDTV</name>
+<thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
+<info>Season 2 - 720p HDTV</info>
+</channel>
+
+<channel>
+<name>Season 3 - 720p HDTV</name>
+<thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
+<info>Season 3 - 720p HDTV</info>
+</channel>
+
+<channel>
+<name>Season 4 - 720p x265</name>
+<thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
+<info>Season 4 - 720p x265</info>
+</channel>
+
+<channel>
+<name>Season 5 - 720p x265</name>
+<thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
+<info>Season 5 - 720p x265</info>
+</channel>
+
+
+
+</channels>

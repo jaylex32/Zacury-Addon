@@ -158,4 +158,12 @@
 <item>
 
 
+<item>
+<title>Cause and Effect<title>
+<Link>http://dl.my-film.in/serial/The%20Flash/Season%203%20-%20720p%20x265/The.Flash.2014.S03E21.720p.HDTV.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>http://thetvdb.com/banners/posters/279121-27.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/279121-30.jpg<fanart>
+<item>
+
+
 >>> 

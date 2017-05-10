@@ -13,7 +13,7 @@
 <channel>
 <name>Season 2</name>
 <thumbnail>http://thetvdb.com/banners/posters/279121-27.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/The%20Flash%20Season%202.txt</externallink>
 <fanart>http://thetvdb.com/banners/fanart/original/279121-30.jpg</fanart>
 <info></info>
 </channel>

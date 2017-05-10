@@ -21,7 +21,7 @@
 <channel>
 <name>The Flash</name>
 <thumbnail>http://thetvdb.com/banners/posters/279121-37.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/The%20Flash%20Seasons.txt</externallink>
 <fanart>http://thetvdb.com/banners/fanart/original/279121-9.jpg</fanart>
 <info></info>
 </channel>

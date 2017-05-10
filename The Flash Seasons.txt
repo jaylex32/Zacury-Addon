@@ -1,0 +1,29 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Season 1</name>
+<thumbnail>http://thetvdb.com/banners/posters/279121-27.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/279121-30.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 2</name>
+<thumbnail>http://thetvdb.com/banners/posters/279121-27.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/279121-30.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Season 3</name>
+<thumbnail>http://thetvdb.com/banners/posters/279121-27.jpg</thumbnail>
+<externallink></externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/279121-30.jpg</fanart>
+<info></info>
+</channel>
+
+<channels> 

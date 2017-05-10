@@ -26,11 +26,11 @@
 </channel>
 
 <channel>
-<name>Season 4 - 720p x265</name>
+<name>Season 4</name>
 <thumbnail>http://thetvdb.com/banners/posters/257655-8.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Seasons.txt</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Arrow%20Season%204.txt</externallink>
 <fanart>http://thetvdb.com/banners/fanart/original/257655-47.jpg</fanart>
-<info>Season 4 - 720p x265</info>
+<info></info>
 </channel>
 
 <channel>

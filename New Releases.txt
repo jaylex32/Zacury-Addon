@@ -28,3 +28,27 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDI4OTYzNF5BMl5BanBnXkFtZTgwOTY1NDI4OTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDkxMGQwNjQtN2E0YS00MjNkLTljNzctYTcwYzRlMTRiNmQ2L2ltYWdlXkEyXkFqcGdeQXVyNzg3Mzk0Nw@@._V1_SY1000_SX1500_AL_.jpg<fanart>
 <item>
+
+
+<item>
+<title>Rogue One<title>
+<Link>http://youwatch.org/rqjzuavq9osw<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg<fanart>
+<item>
+
+
+<item>
+<title><title>
+<Link><link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<item>
+
+
+<item>
+<title><title>
+<Link><link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<item>

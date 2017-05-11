@@ -20,3 +20,11 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzNjY4ODktN2Y2OC00NDY5LThiYmYtNGM1NzVkZGU0Y2M4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_.jpg<fanart>
 <item>
+
+
+<item>
+<title>Rings<title>
+<Link>http://youwatch.org/ee8od9rqe3cu<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDI4OTYzNF5BMl5BanBnXkFtZTgwOTY1NDI4OTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDkxMGQwNjQtN2E0YS00MjNkLTljNzctYTcwYzRlMTRiNmQ2L2ltYWdlXkEyXkFqcGdeQXVyNzg3Mzk0Nw@@._V1_SY1000_SX1500_AL_.jpg<fanart>
+<item>

@@ -15,15 +15,15 @@
 <thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/TvShows.txt</externallink>
 <fanart></fanart>
-<info>movieplanetbuild.com</info>
+<info></info>
 </channel>
 
 <channel>
 <name>New Releases</name>
 <thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/TvShows.txt</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/New%20Releases.txt</externallink>
 <fanart></fanart>
-<info>movieplanetbuild.com</info>
+<info></info>
 </channel>
 
 </channels>

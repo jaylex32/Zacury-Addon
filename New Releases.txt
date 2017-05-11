@@ -1,8 +1,8 @@
 <item>
 <title>Suicide Squad<title>
-<Link>https://openload.co/f/BRJ9U0smk4k/Suicide.Squad.2016.720p.WEB-DL.2CH.x265.HEVC-PSA.mkv.mp4<link>
+<Link>http://youwatch.org/grjpqoecg2ig<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg<thumbnail>
-<fanart><fanart>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzZTUyZjQtZGY1My00ZTE0LTljZGYtYzYwZDY5MGViNGU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,738_AL_.jpg<fanart>
 <item>
 
 

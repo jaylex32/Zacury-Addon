@@ -1,0 +1,179 @@
+<item>
+<title>Pilot<title>
+<Link>http://youwatch.org/zeuis1o2i0it<link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Selina Kyle<title>
+<Link>http://vidzi.tv/x6t738kwl2xq<link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>The Balloonman<title>
+<Link>http://vidzi.tv/xi6hhjd6kozw<link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Arkham<title>
+<Link>http://vidzi.tv/abgh8voqaryp<link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Viper<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Spirit of the Goat<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Penguin&#39;s Umbrella<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>The Mask<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Harvey Dent<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Lovecraft<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Rogues&#39; Gallery<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>What the Little Bird Told Him<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Welcome Back, Jim Gordon<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>The Fearsome Dr. Crane<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>The Scarecrow<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>The Blind Fortune Teller<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Red Hood<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Everyone Has a Cobblepot<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Episode 19<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>Under the Knife<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>The Anvil or the Hammer<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+<item>
+<title>All Happy Families Are Alike<title>
+<Link><link>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
+<item>
+
+
+
+
+

@@ -8,7 +8,7 @@
 
 <item>
 <title>Selina Kyle<title>
-<Link>http://vidzi.tv/x6t738kwl2xq<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E02.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -16,7 +16,7 @@
 
 <item>
 <title>The Balloonman<title>
-<Link>http://vidzi.tv/xi6hhjd6kozw<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E03.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -24,7 +24,7 @@
 
 <item>
 <title>Arkham<title>
-<Link>http://vidzi.tv/abgh8voqaryp<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E04.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -32,7 +32,7 @@
 
 <item>
 <title>Viper<title>
-<Link>http://vidzi.tv/6atnwh0dd44n<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E05.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -40,7 +40,7 @@
 
 <item>
 <title>Spirit of the Goat<title>
-<Link>http://vidzi.tv/d5q0mz0p1ljs<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E06.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -48,7 +48,7 @@
 
 <item>
 <title>Penguin Umbrella<title>
-<Link>http://vidzi.tv/45ixcxh3oiml<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E07.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -56,7 +56,7 @@
 
 <item>
 <title>The Mask<title>
-<Link>http://vidzi.tv/wpvy6e54oyh9<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E08.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -64,7 +64,7 @@
 
 <item>
 <title>Harvey Dent<title>
-<Link>http://vidzi.tv/qtgbpa6447bx<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E09.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -72,7 +72,7 @@
 
 <item>
 <title>Lovecraft<title>
-<Link>http://vidzi.tv/1dpyjhca07p7<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E10.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -80,7 +80,7 @@
 
 <item>
 <title>Rogues Gallery<title>
-<Link>http://vidzi.tv/c14y9qdcmm8x<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E11.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -88,7 +88,7 @@
 
 <item>
 <title>What the Little Bird Told Him<title>
-<Link>http://vidzi.tv/iwk4rp5dekdz<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E12.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -96,7 +96,7 @@
 
 <item>
 <title>Welcome Back,Jim Gordon<title>
-<Link>http://vidzi.tv/m25v9ikbk2su<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E13.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -104,7 +104,7 @@
 
 <item>
 <title>The Fearsome Dr.Crane<title>
-<Link>http://vidzi.tv/bmt7n29m2ayi<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E14.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -112,7 +112,7 @@
 
 <item>
 <title>The Scarecrow<title>
-<Link>http://vidzi.tv/e8po5vm7xdvl<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E15.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -120,7 +120,7 @@
 
 <item>
 <title>The Blind Fortune Teller<title>
-<Link>http://vidzi.tv/qqply6p4zivg<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E16.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -128,7 +128,7 @@
 
 <item>
 <title>Red Hood<title>
-<Link>http://vidzi.tv/b3d8csvcn6e3<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E17.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -136,7 +136,7 @@
 
 <item>
 <title>Everyone Has a Cobblepot<title>
-<Link>http://vidzi.tv/479jvogfozp8<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E18.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -144,7 +144,7 @@
 
 <item>
 <title>Beasts of Prey<title>
-<Link>http://vidzi.tv/y2lbxmvnzgap<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E19.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -152,7 +152,7 @@
 
 <item>
 <title>Under the Knife<title>
-<Link>http://vidzi.tv/pyjsnov96x7c<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E20.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -160,7 +160,7 @@
 
 <item>
 <title>The Anvil or the Hammer<title>
-<Link>http://vidzi.tv/oeo0j0ygxi09<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E21.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -168,7 +168,7 @@
 
 <item>
 <title>All Happy Families Are Alike<title>
-<Link>http://vidzi.tv/a2vsbskp6d40.html<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E22.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>

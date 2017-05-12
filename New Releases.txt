@@ -1,6 +1,6 @@
 <item>
 <title>Get Out<title>
-<Link>http://streamjunkie.tv/embed-d5xts8vnimi4.html<link>
+<Link>http://streamjunkie.tv/embed-d5xts8vnimi4<link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
 <info>A young African American man visits his Caucasian girlfriend's mysterious family estate<info>

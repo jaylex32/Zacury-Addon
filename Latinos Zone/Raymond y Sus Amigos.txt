@@ -1,33 +1,34 @@
 <item>
-<title>The Men and the City 9 mayo 2017</title>
+<title>The Men and the City</title>
 <utube>tRQ211PnaCw</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
-<info>9 mayo 2017</info>
+<info>Episodio de el 9 de mayo 2017</info>
 </item>
 
 
 <item>
-<title>Es Mi Vida 9 mayo 2017</title>
+<title>Es Mi Vida</title>
 <utube>uZyLEXwx9MY</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
-<info>9 mayo 2017</info>
+<info>Episodio de el 9 de mayo 2017</info>
 </item>
 
 
 <item>
-<title>Yeye Restaurant 9 mayo 2017</title>
+<title>Yeye Restaurant</title>
 <utube>Grw32D5CCv0</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
-<info>9 mayo 2017</info>
+<info>Episodio de el 9 de mayo 2017</info>
 </item>
 
 
 <item>
-<title>Gato Encerado 9 mayo 2017</title>
+<title>Gato Encerrado</title>
 <utube>xr9KOCkyhd4</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
+<info>Episodio de el 9 de mayo 2017</info>
 </item>

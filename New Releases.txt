@@ -1,103 +1,77 @@
-<item>
-<title>Get Out<title>
-<Link>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Get%20Out%20links.txt<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
-<info>A young African American man visits his Caucasian girlfriend's mysterious family estate<info>
-<item>
+<layouttype>thumbnail</layouttype>
 
 
-<item>
-<title>Rings<title>
-<Link>http://youwatch.org/ee8od9rqe3cu<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDI4OTYzNF5BMl5BanBnXkFtZTgwOTY1NDI4OTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDkxMGQwNjQtN2E0YS00MjNkLTljNzctYTcwYzRlMTRiNmQ2L2ltYWdlXkEyXkFqcGdeQXVyNzg3Mzk0Nw@@._V1_SY1000_SX1500_AL_.jpg<fanart>
-<info>A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in seven days.<info>
-<item>
+<channels>
+<channel>
+<name>Rogue One</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/rqjzuavq9osw</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg</fanart>
+<info>The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.</info>
+</channel>
 
+<channel>
+<name>Get Out</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Get%20Out%20links.txt</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg</fanart>
+<info>A young African American man visits his Caucasian girlfriend's mysterious family estate</info>
+</channel>
 
-<item>
-<title>Suicide Squad<title>
-<Link>http://youwatch.org/grjpqoecg2ig<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzZTUyZjQtZGY1My00ZTE0LTljZGYtYzYwZDY5MGViNGU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,738_AL_.jpg<fanart>
-<info>A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.<info>
-<item>
+<channel>
+<name>Rings</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDI4OTYzNF5BMl5BanBnXkFtZTgwOTY1NDI4OTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/ee8od9rqe3cu</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDkxMGQwNjQtN2E0YS00MjNkLTljNzctYTcwYzRlMTRiNmQ2L2ltYWdlXkEyXkFqcGdeQXVyNzg3Mzk0Nw@@._V1_SY1000_SX1500_AL_.jpg</fanart>
+<info>A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in seven days.</info>
+</channel>
 
+<channel>
+<name>Suicide Squad</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/grjpqoecg2ig</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzZTUyZjQtZGY1My00ZTE0LTljZGYtYzYwZDY5MGViNGU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,738_AL_.jpg</fanart>
+<info>A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.</info>
+</channel>
 
-<item>
-<title>The Invisible Guest<title>
-<Link>http://youwatch.org/ekglmrlyxuqp<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTA3MjBhN2MtYmMwZC00MzgzLTg5ZTgtZTMyOWIwN2M2ZTQzXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMGEyNWVkOTYtZGViZC00MmE1LTgzZmMtZDVlNGI3MTc2NDExL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SX1777_CR0,0,1777,743_AL_.jpg<fanart>
-<info>A young businessman faces a lawyer trying to prove his innocence by the assassination of his lover.<info>
-<item>
+<channel>
+<name>The Invisible Guest</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTA3MjBhN2MtYmMwZC00MzgzLTg5ZTgtZTMyOWIwN2M2ZTQzXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/ekglmrlyxuqp</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMGEyNWVkOTYtZGViZC00MmE1LTgzZmMtZDVlNGI3MTc2NDExL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SX1777_CR0,0,1777,743_AL_.jpg</fanart>
+<info>A young businessman faces a lawyer trying to prove his innocence by the assassination of his lover.</info>
+</channel>
 
+<channel>
+<name>Hacksaw Ridge</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/16zzjgmpplny</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzNjY4ODktN2Y2OC00NDY5LThiYmYtNGM1NzVkZGU0Y2M4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_.jpg</fanart>
+<info>WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.</info>
+</channel>
 
-<item>
-<title>Hacksaw Ridge<title>
-<Link>http://youwatch.org/16zzjgmpplny<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzNjY4ODktN2Y2OC00NDY5LThiYmYtNGM1NzVkZGU0Y2M4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_.jpg<fanart>
-<info>WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.<info>
-<item>
+<channel>
+<name>Hidden Figures</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/boaf9l3q4fsx</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWJjZmE3MDItNDlkMi00YzY5LTkyYjItZTE5MjdkM2ZmYzZmXkEyXkFqcGdeQXVyNTc2MTUyMTc@._V1_SX1777_CR0,0,1777,956_AL_.jpg</fanart>
+<info>The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.</info>
+</channel>
 
+<channel>
+<name>Arrival</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/nebr7jspu8zp</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyNDYwOWYtYzM5My00ZjJmLWEzNjAtYWE0Mjc0NTAzODIxXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX1777_CR0,0,1777,740_AL_.jpg</fanart>
+<info>When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.</info>
+</channel>
 
-<item>
-<title>Rogue One<title>
-<Link>http://youwatch.org/rqjzuavq9osw<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg<fanart>
-<info>The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.<info>
-<item>
+<channel>
+<name>Allegiant</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
+<externallink>http://youwatch.org/1qlmvrz7o1fh</externallink>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg</fanart>
+<info>After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago, to finally discover the shocking truth of the world around them.</info>
+</channel>
 
-
-<item>
-<title>Hidden Figures<title>
-<Link>http://youwatch.org/boaf9l3q4fsx<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWJjZmE3MDItNDlkMi00YzY5LTkyYjItZTE5MjdkM2ZmYzZmXkEyXkFqcGdeQXVyNTc2MTUyMTc@._V1_SX1777_CR0,0,1777,956_AL_.jpg<fanart>
-<info>The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.<info>
-<item>
-
-
-<item>
-<title>Arrival<title>
-<Link>http://youwatch.org/nebr7jspu8zp<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyNDYwOWYtYzM5My00ZjJmLWEzNjAtYWE0Mjc0NTAzODIxXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX1777_CR0,0,1777,740_AL_.jpg<fanart>
-<info>When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.<info>
-<item>
-
-
-<item>
-<title>Allegiant<title>
-<Link>http://youwatch.org/1qlmvrz7o1fh<link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg<fanart>
-<info>After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago, to finally discover the shocking truth of the world around them.<info>
-<item>
-
-
-<item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
-<item>
-
-
-<item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
-<item>
-
-
-<item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
-<item>
+</channels>

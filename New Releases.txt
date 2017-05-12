@@ -55,18 +55,18 @@
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title>Allegiant<title>
+<Link>http://youwatch.org/1qlmvrz7o1fh<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg<fanart>
 <item>
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title>Get Out<title>
+<Link>http://youwatch.org/mh2tq3eky9w6<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
 <item>
 
 

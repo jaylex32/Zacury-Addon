@@ -1,6 +1,6 @@
 <item>
 <title>Pilot<title>
-<Link>http://vidzi.tv/3kro1t70f8q0<link>
+<Link>http://dl.funsaber.com/serial/Gotham/Season%201/480/Gotham.S01E01.480p.mkv<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>

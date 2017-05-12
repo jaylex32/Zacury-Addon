@@ -1,29 +1,34 @@
-<layouttype>thumbnail</layouttype>
+<item>
+<title>Youwatch.org<title>
+<Link>http://youwatch.org/mh2tq3eky9w6<link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<info><info>
+<item>
 
 
-<channels>
-<channel>
-<name>Youwatch.org</name>
-<thumbnail></thumbnail>
-<externallink>http://youwatch.org/mh2tq3eky9w6</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
+<item>
+<title>Vidzi.tv<title>
+<Link>http://vidzi.tv/gm9asa2jsg5e<link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<info><info>
+<item>
 
-<channel>
-<name>Vidzi.tv</name>
-<thumbnail></thumbnail>
-<externallink>http://vidzi.tv/gm9asa2jsg5e</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
 
-<channel>
-<name>Vidlox.tv</name>
-<thumbnail></thumbnail>
-<externallink>https://vidlox.tv/153xgpu4bfvf</externallink>
-<fanart></fanart>
-<info></info>
-</channel>
+<item>
+<title>Vidlox.tv<title>
+<Link>https://vidlox.tv/153xgpu4bfvf<link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<info><info>
+<item>
 
-</channels>
+
+<item>
+<title><title>
+<Link><link>
+<thumbnail><thumbnail>
+<fanart><fanart>
+<info><info>
+<item>

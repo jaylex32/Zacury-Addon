@@ -7,19 +7,19 @@
 #EXTM3U
 
 #EXTINF:-1,USA: WWE
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9530.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9530.ts
 #EXTINF:-1,USA: WHDH
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9491.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9491.ts
 #EXTINF:-1,USA: Travel Channel HD
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9476.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9476.ts
 #EXTINF:-1,USA: TLC HD
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9480.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9480.ts
 #EXTINF:-1,USA: The Florida Channel
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9495.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9495.ts
 #EXTINF:-1,USA: TBN
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9542.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9542.ts
 #EXTINF:-1,USA: RT Documentary
-plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9497.ts&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9497.ts
 #EXTINF:-1,USA: RT America HD
 plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9498.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,USA: NBC Sports Network HD

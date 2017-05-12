@@ -6,14 +6,16 @@
 #EXTINF:0, [COLOR white][B]====[COLOR white][I]If a Channel does not start wait until it gets fix[/I][/COLOR]====[/B][/COLOR]
 #EXTM3U
 
+#EXTINF:-1,USA: WWE
+plugin://plugin.video.f4mTester/?url=http://iptvsensation.ns01.biz:6500/live/JohnJohn/7eya1v8Hmy/9530.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,UK: BT ESPN HD
-http://149.56.240.30:25461/live/EAS12/1111/1314.ts
+plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/EAS12/1111/1314.ts
 #EXTINF:-1,UK: BT SPORTS 1 HD
-http://149.56.240.30:25461/live/EAS12/1111/1318.ts
+plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/EAS12/1111/1318.ts
 #EXTINF:-1,UK: BT FHD 1
-http://149.56.240.30:25461/live/EAS12/1111/1315.ts
+plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/EAS12/1111/1315.ts
 #EXTINF:-1,UK: BT SPORTS 2 HD
-http://149.56.240.30:25461/live/EAS12/1111/1319.ts
+plugin://plugin.video.f4mTester/?url=http://149.56.240.30:25461/live/EAS12/1111/1319.ts
 #EXTINF:-1,UK: BT FHD 2
 http://149.56.240.30:25461/live/EAS12/1111/1316.ts
 #EXTINF:-1,UK: BT SPORTS 3 HD

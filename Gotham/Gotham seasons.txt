@@ -10,4 +10,12 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Season 2</name>
+<thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Gotham/Gotham%20Season%201.txt</externallink>
+<fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg</fanart>
+<info></info>
+</channel>
+
 <channels> 

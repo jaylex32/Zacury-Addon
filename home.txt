@@ -12,7 +12,7 @@
 
 <channel>
 <name>Tv Shows</name>
-<thumbnail></thumbnail>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/3/38/TV-icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/TvShows.txt</externallink>
 <fanart></fanart>
 <info></info>
@@ -20,7 +20,7 @@
 
 <channel>
 <name>New Releases</name>
-<thumbnail></thumbnail>
+<thumbnail>http://4.bp.blogspot.com/-9szhqTrgQm4/TkTdBa0FoxI/AAAAAAAADgk/E4BfMO_9S3o/s320/movies-icon.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/New%20Releases.txt</externallink>
 <fanart></fanart>
 <info></info>

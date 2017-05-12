@@ -1,6 +1,6 @@
 <item>
 <title>Pilot<title>
-<Link>http://youwatch.org/zeuis1o2i0it<link>
+<Link>http://vidzi.tv/3kro1t70f8q0<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -32,7 +32,7 @@
 
 <item>
 <title>Viper<title>
-<Link><link>
+<Link>http://vidzi.tv/6atnwh0dd44n<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -40,15 +40,15 @@
 
 <item>
 <title>Spirit of the Goat<title>
-<Link><link>
+<Link>http://vidzi.tv/d5q0mz0p1ljs<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
 
 
 <item>
-<title>Penguin&#39;s Umbrella<title>
-<Link><link>
+<title>Penguin Umbrella<title>
+<Link>http://vidzi.tv/45ixcxh3oiml<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -56,7 +56,7 @@
 
 <item>
 <title>The Mask<title>
-<Link><link>
+<Link>http://vidzi.tv/wpvy6e54oyh9<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -64,7 +64,7 @@
 
 <item>
 <title>Harvey Dent<title>
-<Link><link>
+<Link>http://vidzi.tv/qtgbpa6447bx<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -72,15 +72,15 @@
 
 <item>
 <title>Lovecraft<title>
-<Link><link>
+<Link>http://vidzi.tv/1dpyjhca07p7<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
 
 
 <item>
-<title>Rogues&#39; Gallery<title>
-<Link><link>
+<title>Rogues Gallery<title>
+<Link>http://vidzi.tv/c14y9qdcmm8x<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -88,23 +88,23 @@
 
 <item>
 <title>What the Little Bird Told Him<title>
-<Link><link>
+<Link>http://vidzi.tv/iwk4rp5dekdz<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
 
 
 <item>
-<title>Welcome Back, Jim Gordon<title>
-<Link><link>
+<title>Welcome Back,Jim Gordon<title>
+<Link>http://vidzi.tv/m25v9ikbk2su<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
 
 
 <item>
-<title>The Fearsome Dr. Crane<title>
-<Link><link>
+<title>The Fearsome Dr.Crane<title>
+<Link>http://vidzi.tv/bmt7n29m2ayi<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -112,7 +112,7 @@
 
 <item>
 <title>The Scarecrow<title>
-<Link><link>
+<Link>http://vidzi.tv/e8po5vm7xdvl<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -120,7 +120,7 @@
 
 <item>
 <title>The Blind Fortune Teller<title>
-<Link><link>
+<Link>http://vidzi.tv/qqply6p4zivg<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -128,7 +128,7 @@
 
 <item>
 <title>Red Hood<title>
-<Link><link>
+<Link>http://vidzi.tv/b3d8csvcn6e3<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -136,15 +136,15 @@
 
 <item>
 <title>Everyone Has a Cobblepot<title>
-<Link><link>
+<Link>http://vidzi.tv/479jvogfozp8<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
 
 
 <item>
-<title>Episode 19<title>
-<Link><link>
+<title>Beasts of Prey<title>
+<Link>http://vidzi.tv/y2lbxmvnzgap<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -152,7 +152,7 @@
 
 <item>
 <title>Under the Knife<title>
-<Link><link>
+<Link>http://vidzi.tv/pyjsnov96x7c<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -160,7 +160,7 @@
 
 <item>
 <title>The Anvil or the Hammer<title>
-<Link><link>
+<Link>http://vidzi.tv/oeo0j0ygxi09<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>
@@ -168,7 +168,7 @@
 
 <item>
 <title>All Happy Families Are Alike<title>
-<Link><link>
+<Link>http://vidzi.tv/a2vsbskp6d40.html<link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg<thumbnail>
 <fanart>http://thetvdb.com/banners/fanart/original/274431-25.jpg<fanart>
 <item>

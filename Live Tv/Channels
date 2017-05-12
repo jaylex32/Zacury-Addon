@@ -6,5 +6,5 @@
 #EXTINF:0, [COLOR white][B]====[COLOR white][I]f4mTester Addon and Playlist Loader Addon Required for Kodi[/I][/COLOR]====[/B][/COLOR]
 #EXTM3U
 
-#EXTINF:-1,FR:Bein_Sport.1
-plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/www.genatsat.com/10052017genatsat.com/55.ts
+#EXTINF:-1,BE:CINEMA 1
+plugin://plugin.video.f4mTester/?url=http://geantiptv.ddns.net:61555/live/www.genatsat.com/10052017genatsat.com/2143.ts

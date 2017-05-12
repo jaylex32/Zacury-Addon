@@ -26,4 +26,12 @@
 <info></info>
 </channel>
 
+<channel>
+<name>Live Tv</name>
+<thumbnail>http://www.pro-fes.ru/.static/img/ics/System%20Icons/Live%20TV.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
 </channels>

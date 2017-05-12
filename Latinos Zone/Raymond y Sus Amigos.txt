@@ -20,3 +20,11 @@
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
 </item>
+
+
+<item>
+<title>Gato Encerado 9 mayo 2017</title>
+<utube>xr9KOCkyhd4</utube>
+<thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
+<fanart></fanart>
+</item>

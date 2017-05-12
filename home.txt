@@ -29,7 +29,7 @@
 <channel>
 <name>Latinos Zone</name>
 <thumbnail>http://www.pro-fes.ru/.static/img/ics/System%20Icons/Live%20TV.png</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Latinos%20Zone/Raymond%20y%20Sus%20Amigos%20main.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>

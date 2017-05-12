@@ -3,6 +3,7 @@
 <utube>tRQ211PnaCw</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
+<info>9 mayo 2017</info>
 </item>
 
 
@@ -11,6 +12,7 @@
 <utube>uZyLEXwx9MY</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
+<info>9 mayo 2017</info>
 </item>
 
 
@@ -19,6 +21,7 @@
 <utube>Grw32D5CCv0</utube>
 <thumbnail>http://1.bp.blogspot.com/-9jJ7gg4iREk/Vo7ZX_8omsI/AAAAAAAAA28/LPOURhHAols/s1600/Raymond%2By%2Bsus%2Bamigos%2B-%2BTelemundo%2BPR%2B%25282%2529.PNG</thumbnail>
 <fanart></fanart>
+<info>9 mayo 2017</info>
 </item>
 
 

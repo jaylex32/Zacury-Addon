@@ -27,9 +27,9 @@
 </channel>
 
 <channel>
-<name>Live Tv</name>
+<name>Latinos Zone</name>
 <thumbnail>http://www.pro-fes.ru/.static/img/ics/System%20Icons/Live%20TV.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Live%20Tv/Channels</externallink>
+<externallink></externallink>
 <fanart></fanart>
 <info></info>
 </channel>

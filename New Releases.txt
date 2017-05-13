@@ -115,16 +115,35 @@ sublink:LISTSOURCE:http://youwatch.org/fnxdmqbm7oh3 ::LISTNAME:1080p STREAM LINK
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
-<item>
+<title>Ghost In The Shell</title>
+<link>
+sublink:LISTSOURCE:http://youwatch.org/sb7yl1zfnk74 ::LISTNAME:720p STREAM LINK 1::#
+sublink:LISTSOURCE:http://youwatch.org/slp79c1x5xno ::LISTNAME:1080p STREAM LINK 2::#
+</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title></title>
+<link>
+sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 1::#
+sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 2::#
+sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 3::#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
 <item>
+<title></title>
+<link>
+sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 1::#
+sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 2::#
+sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 3::#
+</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

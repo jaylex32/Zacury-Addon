@@ -1,5 +1,5 @@
 <item>
-<title>Arrival link 1<title>
+<title>Arrival (link 1)<title>
 <Link>http://youwatch.org/nebr7jspu8zp<link>
 <thumbnail><thumbnail>
 <fanart><fanart>

@@ -1,5 +1,5 @@
 <item>
-<title>Allegiant link 1<title>
+<title>Allegiant (link 1)<title>
 <Link>http://youwatch.org/1qlmvrz7o1fh<link>
 <thumbnail><thumbnail>
 <fanart><fanart>

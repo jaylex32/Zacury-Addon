@@ -1,5 +1,5 @@
 <item>
-<title>Rings link 1<title>
+<title>Rings (link 1)<title>
 <Link>http://youwatch.org/ee8od9rqe3cu<link>
 <thumbnail><thumbnail>
 <fanart><fanart>

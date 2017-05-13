@@ -123,27 +123,3 @@ sublink:LISTSOURCE:http://youwatch.org/slp79c1x5xno ::LISTNAME:1080p STREAM LINK
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg</thumbnail>
 <fanart></fanart>
 </item>
-
-
-<item>
-<title></title>
-<link>
-sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 1::#
-sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 2::#
-sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 3::#
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
-
-
-<item>
-<title></title>
-<link>
-sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 1::#
-sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 2::#
-sublink:LISTSOURCE: ::LISTNAME:STREAM LINK 3::#
-</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>

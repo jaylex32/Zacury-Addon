@@ -1,8 +1,8 @@
 <item>
 <title>Hacksaw Ridge (link 1)<title>
 <Link>http://youwatch.org/16zzjgmpplny<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzNjY4ODktN2Y2OC00NDY5LThiYmYtNGM1NzVkZGU0Y2M4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_.jpg<fanart>
 <info><info>
 <item>
 

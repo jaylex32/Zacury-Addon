@@ -61,7 +61,7 @@
 <channel>
 <name>Arrival</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<externallink>http://youwatch.org/nebr7jspu8zp</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Arrival.txt</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyNDYwOWYtYzM5My00ZjJmLWEzNjAtYWE0Mjc0NTAzODIxXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX1777_CR0,0,1777,740_AL_.jpg</fanart>
 <info>When twelve mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.</info>
 </channel>

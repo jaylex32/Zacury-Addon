@@ -53,7 +53,7 @@
 <channel>
 <name>Hidden Figures</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg</thumbnail>
-<externallink>http://youwatch.org/boaf9l3q4fsx</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Hidden%20Figures.txt</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWJjZmE3MDItNDlkMi00YzY5LTkyYjItZTE5MjdkM2ZmYzZmXkEyXkFqcGdeQXVyNTc2MTUyMTc@._V1_SX1777_CR0,0,1777,956_AL_.jpg</fanart>
 <info>The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.</info>
 </channel>

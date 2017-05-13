@@ -1,8 +1,8 @@
 <item>
 <title>Gifted 2017 HC 720p/1080p</title>
 <link>
-sublink:LISTSOURCE:http://youwatch.org/pgxezsj66fva ::LISTNAME:720p STREAM LINK 1
-sublink:LISTSOURCE:http://youwatch.org/luumbdn7jagr ::LISTNAME:1080p STREAM LINK 2
+sublink:LISTSOURCE:http://youwatch.org/pgxezsj66fva ::LISTNAME:720p STREAM LINK 1::#
+sublink:LISTSOURCE:http://youwatch.org/luumbdn7jagr ::LISTNAME:1080p STREAM LINK 2::#
 </link>
 <thumbnail>https://i.imgur.com/odsTpc3.jpg</thumbnail>
 <fanart></fanart>

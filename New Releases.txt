@@ -45,7 +45,7 @@
 <channel>
 <name>Hacksaw Ridge</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
-<externallink>http://youwatch.org/16zzjgmpplny</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Hacksaw%20Ridge.txt</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZGMzNjY4ODktN2Y2OC00NDY5LThiYmYtNGM1NzVkZGU0Y2M4XkEyXkFqcGdeQXVyNTY0MTkxMTg@._V1_.jpg</fanart>
 <info>WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people, and becomes the first man in American history to receive the Medal of Honor without firing a shot.</info>
 </channel>

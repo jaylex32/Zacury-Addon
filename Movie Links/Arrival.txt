@@ -1,24 +1,24 @@
 <item>
 <title>Arrival (link 1)<title>
 <Link>http://youwatch.org/nebr7jspu8zp<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyNDYwOWYtYzM5My00ZjJmLWEzNjAtYWE0Mjc0NTAzODIxXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX1777_CR0,0,1777,740_AL_.jpg<fanart>
 <item>
 
 
 <item>
 <title>Arrival (link 2)<title>
 <Link>https://vidlox.tv/4jv9857asdtk<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyNDYwOWYtYzM5My00ZjJmLWEzNjAtYWE0Mjc0NTAzODIxXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX1777_CR0,0,1777,740_AL_.jpg<fanart>
 <item>
 
 
 <item>
 <title>Arrival (link 3)<title>
 <Link>http://dl2.downloado.site/dl2/Movie/Arrival.2016.720p.Ganool-%5BDownloado1.info%5D.mkv<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SY1000_CR0,0,640,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BOGUyNDYwOWYtYzM5My00ZjJmLWEzNjAtYWE0Mjc0NTAzODIxXkEyXkFqcGdeQXVyNTk1NTMyNzM@._V1_SX1777_CR0,0,1777,740_AL_.jpg<fanart>
 <item>
 
 

@@ -5,7 +5,7 @@
 <channel>
 <name>Rogue One</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg</thumbnail>
-<externallink>http://youwatch.org/rqjzuavq9osw</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Rouge%20One%20links.txt</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg</fanart>
 <info>The Rebel Alliance makes a risky move to steal the plans for the Death Star, setting up the epic saga to follow.</info>
 </channel>

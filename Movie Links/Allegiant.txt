@@ -1,24 +1,24 @@
 <item>
 <title>Allegiant (link 1)<title>
 <Link>http://youwatch.org/1qlmvrz7o1fh<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg<fanart>
 <item>
 
 
 <item>
 <title>Allegiant (link 2)<title>
 <Link>https://vidlox.tv/gbo79xr0e26m<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg<fanart>
 <item>
 
 
 <item>
 <title>Allegiant (link 3)<title>
 <Link>http://dl2.mihanpix.com/Film/2016/Allegiant.2016.720p.ShAaNiG.mkv<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg<fanart>
 <item>
 
 

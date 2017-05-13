@@ -7,16 +7,16 @@
 
 
 <item>
-<title><title>
-<Link><link>
+<title>Allegiant (link 2)<title>
+<Link>https://vidlox.tv/gbo79xr0e26m<link>
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>
 
 
 <item>
-<title><title>
-<Link><link>
+<title>Allegiant (link 3)<title>
+<Link>http://dl2.mihanpix.com/Film/2016/Allegiant.2016.720p.ShAaNiG.mkv<link>
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>

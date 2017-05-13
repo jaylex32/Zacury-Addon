@@ -21,7 +21,7 @@
 <channel>
 <name>Rings</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE5NDI4OTYzNF5BMl5BanBnXkFtZTgwOTY1NDI4OTE@._V1_SY1000_CR0,0,640,1000_AL_.jpg</thumbnail>
-<externallink>http://youwatch.org/ee8od9rqe3cu</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Rings%20links.txt</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZDkxMGQwNjQtN2E0YS00MjNkLTljNzctYTcwYzRlMTRiNmQ2L2ltYWdlXkEyXkFqcGdeQXVyNzg3Mzk0Nw@@._V1_SY1000_SX1500_AL_.jpg</fanart>
 <info>A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in seven days.</info>
 </channel>

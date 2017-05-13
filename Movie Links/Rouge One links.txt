@@ -1,8 +1,8 @@
 <item>
 <title>Rouge One (link 1)<title>
 <Link>http://youwatch.org/rqjzuavq9osw<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg<fanart>
 <info><info>
 <item>
 

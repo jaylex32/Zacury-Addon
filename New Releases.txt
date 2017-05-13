@@ -69,7 +69,7 @@
 <channel>
 <name>Allegiant</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTI3NDQwN15BMl5BanBnXkFtZTgwNjExOTIwODE@._V1_SY1000_CR0,0,647,1000_AL_.jpg</thumbnail>
-<externallink>http://youwatch.org/1qlmvrz7o1fh</externallink>
+<externallink>https://raw.githubusercontent.com/jaylex32/Zacury-Addon/master/Movie%20Links/Allegiant.txt</externallink>
 <fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZmYwODM2YjgtYzJhYi00ODkwLWI3NzctNDEyZWFjNmI3MzU4XkEyXkFqcGdeQXVyMzQ1MzUwMTE@._V1_.jpg</fanart>
 <info>After the earth-shattering revelations of Insurgent, Tris must escape with Four beyond the wall that encircles Chicago, to finally discover the shocking truth of the world around them.</info>
 </channel>

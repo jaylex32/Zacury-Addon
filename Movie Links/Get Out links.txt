@@ -1,8 +1,8 @@
 <item>
 <title>Get Out (link 1)<title>
 <Link>http://youwatch.org/mh2tq3eky9w6<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
 <info><info>
 <item>
 
@@ -10,8 +10,8 @@
 <item>
 <title>Get Out (link 2)<title>
 <Link>http://vidzi.tv/gm9asa2jsg5e<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
 <info><info>
 <item>
 
@@ -19,8 +19,8 @@
 <item>
 <title>Get Out (link 3)<title>
 <Link>https://vidlox.tv/153xgpu4bfvf<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
 <info><info>
 <item>
 

@@ -7,16 +7,16 @@
 
 
 <item>
-<title><title>
-<Link><link>
+<title>Arrival (link 2)<title>
+<Link>https://vidlox.tv/4jv9857asdtk<link>
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>
 
 
 <item>
-<title><title>
-<Link><link>
+<title>Arrival (link 3)<title>
+<Link>http://dl2.downloado.site/dl2/Movie/Arrival.2016.720p.Ganool-%5BDownloado1.info%5D.mkv<link>
 <thumbnail><thumbnail>
 <fanart><fanart>
 <item>

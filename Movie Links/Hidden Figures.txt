@@ -1,5 +1,5 @@
 <item>
-<title>Hidden Figures link 1<title>
+<title>Hidden Figures (link 1)<title>
 <Link>http://youwatch.org/boaf9l3q4fsx<link>
 <thumbnail><thumbnail>
 <fanart><fanart>

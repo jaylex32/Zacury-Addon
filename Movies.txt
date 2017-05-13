@@ -1,11 +1,11 @@
 <item>
-<title>Gifted 2017 HC 720p/1080p</title>
-<Link>
-sublink:LISTSOURCE:http://dl.my-film.in/Movie/BluRay%20720p-x265/A.Dog%27s.Purpose.2017.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv::LISTNAME:720p STREAM LINK 1::#
-sublink:LISTSOURCE:http://youwatch.org/luumbdn7jagr::LISTNAME:1080p STREAM LINK 2::#
+<title>Fist Fight 2017 720p</title>
 <link>
-<thumbnail>https://i.imgur.com/odsTpc3.jpg</thumbnail>
-<fanart></fanart>
+sublink:LISTSOURCE:http://youwatch.org/i9ndqv4qd57k ::LISTNAME:[COLOR aqua]SD SUPREMACY STREAM LINK 1[/COLOR]::#
+sublink:LISTSOURCE:http://youwatch.org/5y5xdvpb0yix ::LISTNAME:[COLOR aqua]720p SUPREMACY STREAM LINK 2[/COLOR]::#
+</link>
+<thumbnail>https://i.imgur.com/L33CQQf.jpg</thumbnail>
+<fanart>https://i.imgur.com/71DIWlV.jpg</fanart>
 </item>
 
 

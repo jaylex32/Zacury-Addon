@@ -7,10 +7,10 @@
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title>Hidden Figures (link 2)<title>
+<Link>https://thevideo.me/embed-h2zm5zosqlpe.html<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxOTkxODUyN15BMl5BanBnXkFtZTgwNTU3NTM3OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWJjZmE3MDItNDlkMi00YzY5LTkyYjItZTE5MjdkM2ZmYzZmXkEyXkFqcGdeQXVyNTc2MTUyMTc@._V1_SX1777_CR0,0,1777,956_AL_.jpg<fanart>
 <item>
 
 

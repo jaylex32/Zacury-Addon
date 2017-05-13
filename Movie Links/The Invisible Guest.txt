@@ -1,8 +1,8 @@
 <item>
 <title>The Invisible Guest (link 1)<title>
 <Link>http://youwatch.org/ekglmrlyxuqp<link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BYTA3MjBhN2MtYmMwZC00MzgzLTg5ZTgtZTMyOWIwN2M2ZTQzXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMGEyNWVkOTYtZGViZC00MmE1LTgzZmMtZDVlNGI3MTc2NDExL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDY4NTQ1MA@@._V1_SX1777_CR0,0,1777,743_AL_.jpg<fanart>
 <info><info>
 <item>
 

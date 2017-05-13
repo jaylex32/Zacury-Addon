@@ -8,13 +8,21 @@
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title>Rouge One (link 2)<title>
+<Link>http://dl.my-film.in/Movie/BluRay%20720p-x265/Rogue.One.2016.720p.BluRay.2CH.x265.HEVC-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg<fanart>
 <info><info>
 <item>
 
+
+<item>
+<title>Rouge One (link 3)<title>
+<Link>http://avadl.uploadet.ir/Movie/2017/Rogue.One.2016.720p.BluRay.x264.AVADL.BiZ.mp4<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_SY1000_SX675_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BZjgzZGVjOGYtMDVmYi00ZjU0LThlNTMtOTEwYmIyYzVhMDZmXkEyXkFqcGdeQXVyNTQxOTM1NTc@._V1_.jpg<fanart>
+<info><info>
+<item>
 
 
 

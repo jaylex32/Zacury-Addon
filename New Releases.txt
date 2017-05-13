@@ -5,9 +5,9 @@ sublink:LISTSOURCE:http://youwatch.org/mh2tq3eky9w6 ::LISTNAME:STREAM LINK 1::#
 sublink:LISTSOURCE:http://vidzi.tv/gm9asa2jsg5e ::LISTNAME:STREAM LINK 2::#
 sublink:LISTSOURCE:https://vidlox.tv/153xgpu4bfvf ::LISTNAME:STREAM LINK 3::#
 </link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg<thumbnail>
-<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg<fanart>
-<item>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BNTE2Nzg1NjkzNV5BMl5BanBnXkFtZTgwOTgyODMyMTI@._V1_SY1000_CR0,0,631,1000_AL_.jpg</thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BYWZkNzZhNTItMDExNy00YTljLTlmYzktOTZhYmMzNjE4MDVhXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_SY1000_CR0,0,1611,1000_AL_.jpg</fanart>
+</item>
 
 
 <item>

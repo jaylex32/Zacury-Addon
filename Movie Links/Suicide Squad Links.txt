@@ -8,19 +8,19 @@
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title>Suicide Squad (link 2)<title>
+<Link>http://dl.my-film.in/reza/film/Suicide.Squad.2016.EXTENDED.720p.Ganool-[My-Film].mkv<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzZTUyZjQtZGY1My00ZTE0LTljZGYtYzYwZDY5MGViNGU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,738_AL_.jpg<fanart>
 <info><info>
 <item>
 
 
 <item>
-<title><title>
-<Link><link>
-<thumbnail><thumbnail>
-<fanart><fanart>
+<title>Suicide Squad (link 3)<title>
+<Link>https://vidlox.tv/vem75uqssc8n<link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg<thumbnail>
+<fanart>https://images-na.ssl-images-amazon.com/images/M/MV5BMzgzZTUyZjQtZGY1My00ZTE0LTljZGYtYzYwZDY5MGViNGU0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SX1777_CR0,0,1777,738_AL_.jpg<fanart>
 <info><info>
 <item>
 

@@ -32,3 +32,12 @@
 <fanart></fanart>
 <info>Episodio de el 9 de mayo 2017</info>
 </item>
+
+
+<item>
+<title>Trap Latino</title>
+<utube>PLDspDUha7vSw_V6pug27ApUwnsY6JWBhT</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Trap Latino</info>
+</item>

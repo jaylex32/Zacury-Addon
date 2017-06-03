@@ -10,4 +10,12 @@
 <info></info>
 </channel>
 
+<channel>
+<title>Trap Latino</title>
+<utube>PLDspDUha7vSw_V6pug27ApUwnsY6JWBhT</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>Trap Latino</info>
+</channel>
+
 </channels>

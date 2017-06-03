@@ -11,7 +11,7 @@
 </channel>
 
 <channel>
-<title>Trap Latino</title>
+<name>Trap Latino</name>
 <utube>PLDspDUha7vSw_V6pug27ApUwnsY6JWBhT</utube>
 <thumbnail></thumbnail>
 <fanart></fanart>

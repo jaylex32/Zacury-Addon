@@ -34,10 +34,10 @@
 </item>
 
 
-<item>
+<dir>
 <title>Trap Latino</title>
-<utube>list=PLDspDUha7vSw_V6pug27ApUwnsY6JWBhT</utube>
+<utube>PLDspDUha7vSw_V6pug27ApUwnsY6JWBhT</utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info>Trap Latino</info>
-</item>
+</dir>
